@@ -359,6 +359,43 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "cjam",
+      "name": "Colter McQuay",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1000288?v=4",
+      "profile": "https://github.com/cjam",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Hugo-Hontans",
+      "name": "Hugo Hontans",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/42539174?v=4",
+      "profile": "https://github.com/Hugo-Hontans",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dexster",
+      "name": "dexster",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6392334?v=4",
+      "profile": "https://github.com/dexster",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "snowyu",
+      "name": "Riceball LEE",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/327887?v=4",
+      "profile": "https://github.com/snowyu",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }

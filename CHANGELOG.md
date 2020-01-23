@@ -2,6 +2,75 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.17.3](https://github.com/datorama/akita/compare/v4.17.2...v4.17.3) (2020-01-12)
+
+
+### Bug Fixes
+
+* **store:** fix resettable getter condition to return boolean ([#358](https://github.com/datorama/akita/issues/358)) ([4755ab6](https://github.com/datorama/akita/commit/4755ab6))
+
+
+
+### [4.17.2](https://github.com/datorama/akita/compare/v4.17.1...v4.17.2) (2020-01-08)
+
+
+### Bug Fixes
+
+* 🐛 persist state should reset ttl ([d106bd1](https://github.com/datorama/akita/commit/d106bd1))
+
+
+
+### [4.17.1](https://github.com/datorama/akita/compare/v4.17.0...v4.17.1) (2019-12-17)
+
+
+### Bug Fixes
+
+* 🐛 createquery fp options should be optional ([9d4c3f5](https://github.com/datorama/akita/commit/9d4c3f5))
+* change arrayFind id param type ([#350](https://github.com/datorama/akita/issues/350)) ([80102b6](https://github.com/datorama/akita/commit/80102b6)), closes [#349](https://github.com/datorama/akita/issues/349)
+* **formsmanager.unsubscribe:** update store before unsubscribing ([#344](https://github.com/datorama/akita/issues/344)) ([ee4286b](https://github.com/datorama/akita/commit/ee4286b))
+
+
+
+## [4.17.0](https://github.com/datorama/akita/compare/v4.16.0...v4.17.0) (2019-12-05)
+
+
+### Features
+
+* **context:** release the entry type of akitaPreUpdateEntity ([#341](https://github.com/datorama/akita/issues/341)) ([1d019c1](https://github.com/datorama/akita/commit/1d019c1))
+
+
+
+## [4.16.0](https://github.com/datorama/akita/compare/v4.14.1...v4.16.0) (2019-12-01)
+
+
+### Bug Fixes
+
+* **withTransaction:** Fixed typing ([#334](https://github.com/datorama/akita/issues/334)) ([055c2c3](https://github.com/datorama/akita/commit/055c2c3))
+
+
+### Features
+
+* **config:** add TTL to global Akita config ([#340](https://github.com/datorama/akita/issues/340)) ([5debdc0](https://github.com/datorama/akita/commit/5debdc0))
+* 🎸 add watch property support for state history ([2bf07cf](https://github.com/datorama/akita/commit/2bf07cf))
+* add observable past & future for history ([#339](https://github.com/datorama/akita/issues/339)) ([791e8c2](https://github.com/datorama/akita/commit/791e8c2))
+
+
+
+## [4.15.0](https://github.com/datorama/akita/compare/v4.14.1...v4.15.0) (2019-12-01)
+
+
+### Bug Fixes
+
+* **withTransaction:** Fixed typing ([#334](https://github.com/datorama/akita/issues/334)) ([055c2c3](https://github.com/datorama/akita/commit/055c2c3))
+
+
+### Features
+
+* 🎸 add watch property support for state history ([2bf07cf](https://github.com/datorama/akita/commit/2bf07cf))
+* add observable past & future for history ([#339](https://github.com/datorama/akita/issues/339)) ([791e8c2](https://github.com/datorama/akita/commit/791e8c2))
+
+
+
 ### [4.14.1](https://github.com/datorama/akita/compare/v4.14.0...v4.14.1) (2019-11-17)
 
 
