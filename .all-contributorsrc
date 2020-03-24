@@ -396,6 +396,33 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "GeorgeBark",
+      "name": "GeorgeBark",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7204152?v=4",
+      "profile": "https://github.com/GeorgeBark",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AlexandrSHad",
+      "name": "Oleksandr Shadurskyi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11280138?v=4",
+      "profile": "https://github.com/AlexandrSHad",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tuurbo",
+      "name": "Daniel",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/996899?v=4",
+      "profile": "https://github.com/tuurbo",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }

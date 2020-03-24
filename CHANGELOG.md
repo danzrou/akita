@@ -2,6 +2,107 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.21.0](https://github.com/datorama/akita/compare/v4.20.1...v4.21.0) (2020-03-09)
+
+
+### Bug Fixes
+
+* **persist-state:** ignore storage if not defined ([#385](https://github.com/datorama/akita/issues/385)) ([381433e](https://github.com/datorama/akita/commit/381433e))
+
+
+### Features
+
+* **entity-service:** added skip flag to skip store writes ([#379](https://github.com/datorama/akita/issues/379)) ([62741bb](https://github.com/datorama/akita/commit/62741bb))
+
+
+
+### [4.20.1](https://github.com/datorama/akita/compare/v4.20.0...v4.20.1) (2020-03-03)
+
+
+### Bug Fixes
+
+* **persist-state:** localStorage security errors ([#384](https://github.com/datorama/akita/issues/384)) ([f8646df](https://github.com/datorama/akita/commit/f8646df))
+
+
+
+## [4.20.0](https://github.com/datorama/akita/compare/v4.19.4...v4.20.0) (2020-03-01)
+
+
+### Features
+
+* 🎸 add support for passing active id in store set ([31c46b4](https://github.com/datorama/akita/commit/31c46b4))
+
+
+
+### [4.19.4](https://github.com/datorama/akita/compare/v4.19.3...v4.19.4) (2020-02-25)
+
+
+### Bug Fixes
+
+* 🐛 persist form should merge the state ([#377](https://github.com/datorama/akita/issues/377)) ([0ab7e2e](https://github.com/datorama/akita/commit/0ab7e2e))
+
+
+
+### [4.19.3](https://github.com/datorama/akita/compare/v4.19.2...v4.19.3) (2020-02-24)
+
+
+### Bug Fixes
+
+* **ng-entity-service:** remove duplicated file ([#357](https://github.com/datorama/akita/issues/357)) ([9cb190b](https://github.com/datorama/akita/commit/9cb190b))
+* **state-history:** fix jump past and future ([#375](https://github.com/datorama/akita/issues/375)) ([2f532aa](https://github.com/datorama/akita/commit/2f532aa))
+
+
+
+### [4.19.2](https://github.com/datorama/akita/compare/v4.19.1...v4.19.2) (2020-02-06)
+
+
+### Bug Fixes
+
+* 🐛 snapshot manager should support lazy stores ([94a084c](https://github.com/datorama/akita/commit/94a084c))
+
+
+
+### [4.19.1](https://github.com/datorama/akita/compare/v4.19.0...v4.19.1) (2020-02-04)
+
+
+### Bug Fixes
+
+* **has-active:** fix condition when id provided ([#368](https://github.com/datorama/akita/issues/368)) ([8476eef](https://github.com/datorama/akita/commit/8476eef))
+
+
+
+## [4.19.0](https://github.com/datorama/akita/compare/v4.18.1...v4.19.0) (2020-02-02)
+
+
+### Bug Fixes
+
+* 🐛 snapshot manager should ignore the router store ([f6c6ca2](https://github.com/datorama/akita/commit/f6c6ca2))
+
+
+### Features
+
+* **query-entity:** support single active state ([#367](https://github.com/datorama/akita/issues/367)) ([32be83e](https://github.com/datorama/akita/commit/32be83e))
+
+
+
+### [4.18.1](https://github.com/datorama/akita/compare/v4.18.0...v4.18.1) (2020-01-29)
+
+
+### Bug Fixes
+
+* 🐛 persist state should not persist the router store ([b858cf5](https://github.com/datorama/akita/commit/b858cf5))
+
+
+
+## [4.18.0](https://github.com/datorama/akita/compare/v4.17.5...v4.18.0) (2020-01-27)
+
+
+### Features
+
+* 🎸 add support for producer fn for immer ([5820703](https://github.com/datorama/akita/commit/5820703))
+
+
+
 ### [4.17.5](https://github.com/datorama/akita/compare/v4.17.4...v4.17.5) (2020-01-21)
 
 
