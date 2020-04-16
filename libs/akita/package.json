@@ -1,6 +1,6 @@
 {
   "name": "@datorama/akita",
-  "version": "4.22.0",
+  "version": "4.22.2",
   "description": "State Management Tailored-Made for JS Applications",
   "keywords": [
     "angular",
@@ -27,7 +27,7 @@
   "license": "Apache-2.0",
   "author": "Netanel Basal",
   "dependencies": {
-    "schematics-utilities": "^2.0.1"
+    "schematics-utilities": "^1.1.1"
   },
   "peerDependencies": {
     "rxjs": ">= 6.1.0 < 7",

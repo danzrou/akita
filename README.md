@@ -7,7 +7,8 @@ Whether it be Angular, React, Vue, Web Components or plain old vanilla JS, Akita
 <hr />
 
 [![Downloads](https://img.shields.io/npm/dt/@datorama/akita.svg?style=flat-square)]()
-[![Build Status](https://img.shields.io/github/workflow/status/datorama/akita/Build%20Master?style=flat-square)](https://github.com/datorama/akita/actions?query=workflow%3A%22Build%20Master%22)
+[![Build Status](https://github.com/datorama/akita/workflows/Build/badge.svg)](https://github.com/datorama/akita/actions?query=workflow%3A%22Build%22)
+[![Tests](https://github.com/datorama/akita/workflows/Tests/badge.svg)](https://github.com/datorama/akita/actions?query=workflow%3A%22Tests%22)
 [![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors)
 [![commitizen](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)]()
 [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()
@@ -95,6 +96,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://github.com/tuurbo"><img src="https://avatars3.githubusercontent.com/u/996899?v=4" width="100px;" alt=""/><br /><sub><b>Daniel</b></sub></a><br /><a href="https://github.com/NetanelBasal/akita/commits?author=tuurbo" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/NathanAlcantara"><img src="https://avatars0.githubusercontent.com/u/39138501?v=4" width="100px;" alt=""/><br /><sub><b>Nathan Gabriel</b></sub></a><br /><a href="https://github.com/NetanelBasal/akita/commits?author=NathanAlcantara" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/snebjorn"><img src="https://avatars0.githubusercontent.com/u/1266245?v=4" width="100px;" alt=""/><br /><sub><b>snebjorn</b></sub></a><br /><a href="https://github.com/NetanelBasal/akita/commits?author=snebjorn" title="Code">💻</a> <a href="#ideas-snebjorn" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-snebjorn" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/orlovskyalex"><img src="https://avatars1.githubusercontent.com/u/21097952?v=4" width="100px;" alt=""/><br /><sub><b>Alex Orlovsky</b></sub></a><br /><a href="https://github.com/NetanelBasal/akita/commits?author=orlovskyalex" title="Code">💻</a></td>
   </tr>
 </table>
 
