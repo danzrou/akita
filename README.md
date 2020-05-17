@@ -1,6 +1,6 @@
 ![Akita](https://s8.postimg.cc/d4m3fc9tx/image.png)
 
-> _State Management Tailored-Made for JS Applications_
+> A Reactive State Management Tailored-Made for JS Applications
 
 Whether it be Angular, React, Vue, Web Components or plain old vanilla JS, Akita can do the heavy lifting and serve as a useful tool for maintaining clean, boilerplate-free, and scalable applications.
 
@@ -22,7 +22,7 @@ Akita encourages simplicity. It saves you the hassle of creating boilerplate cod
 
 👉 [10 Reasons Why You Should Start Using Akita as Your State Management Solution](https://engineering.datorama.com/10-reasons-why-you-should-start-using-akita-as-your-state-management-solution-66b63d033fec)
 
-- 🤓 Learn about it on the [docs site](https://netbasal.gitbook.io/akita/)
+- 🤓 Learn about it on the [docs site](https://datorama.github.io/akita/)
 - 🚀 See it in action on [StackBlitz](https://stackblitz.com/edit/akita-todos-app)
 - 😎 Use the [CLI](https://github.com/datorama/akita/tree/master/cli)
 - 👉 Checkout the [sample application](http://akita.surge.sh/)
@@ -96,7 +96,12 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://github.com/tuurbo"><img src="https://avatars3.githubusercontent.com/u/996899?v=4" width="100px;" alt=""/><br /><sub><b>Daniel</b></sub></a><br /><a href="https://github.com/NetanelBasal/akita/commits?author=tuurbo" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/NathanAlcantara"><img src="https://avatars0.githubusercontent.com/u/39138501?v=4" width="100px;" alt=""/><br /><sub><b>Nathan Gabriel</b></sub></a><br /><a href="https://github.com/NetanelBasal/akita/commits?author=NathanAlcantara" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/snebjorn"><img src="https://avatars0.githubusercontent.com/u/1266245?v=4" width="100px;" alt=""/><br /><sub><b>snebjorn</b></sub></a><br /><a href="https://github.com/NetanelBasal/akita/commits?author=snebjorn" title="Code">💻</a> <a href="#ideas-snebjorn" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-snebjorn" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-    <td align="center"><a href="https://github.com/orlovskyalex"><img src="https://avatars1.githubusercontent.com/u/21097952?v=4" width="100px;" alt=""/><br /><sub><b>Alex Orlovsky</b></sub></a><br /><a href="https://github.com/NetanelBasal/akita/commits?author=orlovskyalex" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/theorlovsky"><img src="https://avatars1.githubusercontent.com/u/21097952?v=4" width="100px;" alt=""/><br /><sub><b>Alex Orlovsky</b></sub></a><br /><a href="https://github.com/NetanelBasal/akita/commits?author=theorlovsky" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/NickLargen"><img src="https://avatars1.githubusercontent.com/u/1881732?v=4" width="100px;" alt=""/><br /><sub><b>NickLargen</b></sub></a><br /><a href="https://github.com/NetanelBasal/akita/commits?author=NickLargen" title="Code">💻</a> <a href="https://github.com/NetanelBasal/akita/commits?author=NickLargen" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/mateuszroszczyk"><img src="https://avatars0.githubusercontent.com/u/26057696?v=4" width="100px;" alt=""/><br /><sub><b>mateuszroszczyk</b></sub></a><br /><a href="https://github.com/NetanelBasal/akita/commits?author=mateuszroszczyk" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/aleinin"><img src="https://avatars1.githubusercontent.com/u/25621595?v=4" width="100px;" alt=""/><br /><sub><b>aleinin</b></sub></a><br /><a href="https://github.com/NetanelBasal/akita/commits?author=aleinin" title="Documentation">📖</a></td>
   </tr>
 </table>
 
